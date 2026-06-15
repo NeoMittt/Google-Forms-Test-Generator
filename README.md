@@ -164,7 +164,7 @@ function myFunction() {
 <a>Не более двух
 <a>Ровно три
 
-Теперь преобразуй следующий текст в тест (минимум 10 вопросов):
+Теперь преобразуй следующий текст в тест:
 
 [ВСТАВЬ СВОЙ ТЕКСТ СЮДА]
 ````
@@ -266,7 +266,7 @@ Example of correct output:
 <a>No more than two
 <a>Exactly three
 
-Now convert the following text into a quiz (minimum 10 questions):
+Now convert the following text into a quiz:
 
 [PASTE YOUR TEXT HERE]
 ````
